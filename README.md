@@ -6,7 +6,7 @@ android 공부할거야!
 -----
 
 1. - [x] [interface](https://zerogdev.blogspot.com/2019/06/kotlininterface.html)
-2. - [ ] [Publishing to Maven Central](https://chris.banes.dev/publishing-to-maven-central/) 
+2. - [x] [Publishing to Maven Central](https://chris.banes.dev/publishing-to-maven-central/) 
 3. - [ ] 멀티 모듈 
 4. - [x] ~~구현체~~
 5. - [x] MutableList
@@ -48,3 +48,4 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 28. - [x] [suspend](https://stackoverflow.com/a/52925057)
 29. - [x] [Delegates](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%82%B4%EC%9E%A5%EB%90%9C-delegates-2%ED%8E%B8-bc4a23cb6f10)
 30. - [x] [레포지토리 패턴](https://devvkkid.tistory.com/196) / [The “Real” Repository Pattern in Android](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754)
+31. - [ ] AAC ViewModel vs MVVM ViewModel
