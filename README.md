@@ -48,5 +48,5 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 - [x] [suspend](https://stackoverflow.com/a/52925057)
 - [x] [Delegates](https://medium.com/hongbeomi-dev/%EB%B2%88%EC%97%AD-%EB%82%B4%EC%9E%A5%EB%90%9C-delegates-2%ED%8E%B8-bc4a23cb6f10)
 - [x] [레포지토리 패턴](https://devvkkid.tistory.com/196) / [The “Real” Repository Pattern in Android](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754)
-- [ ] AAC ViewModel vs MVVM ViewModel
+- [x] [AAC ViewModel vs MVVM ViewModel](https://enant.tistory.com/49)
 - [x] [MVVM 관련 정보](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
