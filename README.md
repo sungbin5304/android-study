@@ -7,7 +7,7 @@ android 공부할거야!
 
 - [x] [interface](https://zerogdev.blogspot.com/2019/06/kotlininterface.html)
 - [x] [Publishing to Maven Central](https://chris.banes.dev/publishing-to-maven-central/) 
-- [ ] 멀티 모듈 
+- [x] 멀티 모듈 
 - [x] ~~구현체~~
 - [x] MutableList
 - [x] getSystemService context scope (use application or activity)
@@ -30,7 +30,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 ```
 - [x] [android:configChanges 속성](https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko)
 - [ ] [인텐드애서 newTask 관련 -> task 관련](https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=ko)
-- [ ] [Clean Architecture](https://codechacha.com/ko/android-clean-architecture/)
+- [x] [Clean Architecture](https://codechacha.com/ko/android-clean-architecture/)
 - [x] [Kotlin open vs abstract](https://jeongupark-study-house.tistory.com/146)
 - [x] repository 폴더는 무슨 역할을 담는 폴더 일까?
 - [x] \~\~Impl 클래스는 무슨 역할을 하는 클래스 일까?
