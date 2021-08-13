@@ -50,4 +50,4 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 - [x] [레포지토리 패턴](https://devvkkid.tistory.com/196) / [The “Real” Repository Pattern in Android](https://proandroiddev.com/the-real-repository-pattern-in-android-efba8662b754)
 - [x] [AAC ViewModel vs MVVM ViewModel](https://enant.tistory.com/49)
 - [x] [MVVM 관련 정보](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
-- [ ] MVI 패턴
+- [x] MVI 패턴
