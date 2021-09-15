@@ -42,3 +42,4 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 - [x] [AAC ViewModel vs MVVM ViewModel](https://enant.tistory.com/49)
 - [x] [MVVM 관련 정보](https://blog.yena.io/studynote/2019/03/16/Android-MVVM-AAC-1.html)
 - [x] MVI 패턴
+- [ ] Thread 관련 (loop, handler, message 등등)
