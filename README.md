@@ -30,7 +30,7 @@ inline fun <reified VB : ViewBinding> Activity.viewBindings(
 - [x] [Clean Architecture](https://codechacha.com/ko/android-clean-architecture/)
 - [x] repository 폴더는 무슨 역할을 담는 폴더 일까?
 - [x] \~\~Impl 클래스는 무슨 역할을 하는 클래스 일까?
-- [ ] di(dagger2, hilt) 심화 학습 (50% 완료) -> 미디움 정리 필요
+- [ ] di(dagger2, hilt) 학습 -> 미디움 정리 필요
 - [ ] windowSoftInputMode 관련 정보
 - [ ] @Binds가 뭘 까? in Dagger2
 - [ ] what is Observable in DataBidning
